@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "base_track": "Blown out",
+  "base_artist": "Lienel",
+  "createdAt": "2026-02-12T14:49:57.223366Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Image Blown out (Demo) - Bonus Track",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/01_Image_Blown_out_(Demo)_-_Bonus_Track_Genesis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Image Blown Out",
+      "artist": "Genesis",
+      "has_synced": false,
+      "path": "select/02_Image_Blown_Out_Genesis.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blown-out Joy From Heaven's Mercied Hole",
+      "artist": "Silver Mt. Zion",
+      "has_synced": false,
+      "path": "select/03_Blown-out_Joy_From_Heaven's_Mercied_Hole_Silver_Mt._Zion.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blown-Out Joy From Heaven's Mercied Hole",
+      "artist": "A Silver Mt. Zion",
+      "has_synced": false,
+      "path": "select/04_Blown-Out_Joy_From_Heaven's_Mercied_Hole_A_Silver_Mt._Zion.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Image Blown Out (Rough Mix 1968)",
+      "artist": "Genesis",
+      "has_synced": false,
+      "path": "select/05_Image_Blown_Out_(Rough_Mix_1968)_Genesis.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Image Blown Out (demo)",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/06_Image_Blown_Out_(demo)_Genesis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blown out of the Sky",
+      "artist": "The Exploited",
+      "has_synced": true,
+      "path": "select/07_Blown_out_of_the_Sky_The_Exploited.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Image Blown Out",
+      "artist": "Genesis",
+      "has_synced": true,
+      "path": "select/08_Image_Blown_Out_Genesis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blown Out",
+      "artist": "Evil Ebenezer & J.Marsh",
+      "has_synced": false,
+      "path": "select/09_Blown_Out_Evil_Ebenezer_&_J.Marsh.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blown Out (Gold Doubloons and Pcs of 8)",
+      "artist": "Benjy Ferree",
+      "has_synced": false,
+      "path": "select/10_Blown_Out_(Gold_Doubloons_and_Pcs_of_8)_Benjy_Ferree.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blown‐Out Joy From Heaven’s Mercied Hole",
+      "artist": "A Silver Mt. Zion",
+      "has_synced": false,
+      "path": "select/11_Blown‐Out_Joy_From_Heaven’s_Mercied_Hole_A_Silver_Mt._Zion.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blown‐Out Joy From Heaven’s Mercied Hole",
+      "artist": "Silver Mt. Zion, A",
+      "has_synced": false,
+      "path": "select/12_Blown‐Out_Joy_From_Heaven’s_Mercied_Hole_Silver_Mt._Zion,_A.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Blown Away",
+      "artist": "Carrie Underwood",
+      "has_synced": true,
+      "path": "select/13_Blown_Away_Carrie_Underwood.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blown Minded",
+      "artist": "Young Galaxy",
+      "has_synced": false,
+      "path": "select/14_Blown_Minded_Young_Galaxy.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Head Blown",
+      "artist": "YoungBoy Never Broke Again",
+      "has_synced": true,
+      "path": "select/15_Head_Blown_YoungBoy_Never_Broke_Again.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "From Blown Speakers",
+      "artist": "The New Pornographers",
+      "has_synced": false,
+      "path": "select/16_From_Blown_Speakers_The_New_Pornographers.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "How To Operate With A Blown Mind",
+      "artist": "Lo Fidelity Allstars",
+      "has_synced": false,
+      "path": "select/17_How_To_Operate_With_A_Blown_Mind_Lo_Fidelity_Allstars.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Let's Get Blown",
+      "artist": "Snoop Dogg",
+      "has_synced": true,
+      "path": "select/18_Let's_Get_Blown_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Full Blown Love",
+      "artist": "Broods",
+      "has_synced": true,
+      "path": "select/19_Full_Blown_Love_Broods.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Blown Away",
+      "artist": "Pixies",
+      "has_synced": true,
+      "path": "select/20_Blown_Away_Pixies.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Blown Away",
+      "artist": "Pixies",
+      "has_synced": false,
+      "path": "select/21_Blown_Away_Pixies.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Blown Away",
+      "artist": "Pixies",
+      "has_synced": true,
+      "path": "select/22_Blown_Away_Pixies.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Blown It Again",
+      "artist": "Daniel Bedingfield",
+      "has_synced": false,
+      "path": "select/23_Blown_It_Again_Daniel_Bedingfield.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Blown",
+      "artist": "GFOTY",
+      "has_synced": true,
+      "path": "select/24_Blown_GFOTY.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Blown to Kingdom Come",
+      "artist": "Running Wild",
+      "has_synced": true,
+      "path": "select/25_Blown_to_Kingdom_Come_Running_Wild.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Blown to Pieces",
+      "artist": "Mortician",
+      "has_synced": true,
+      "path": "select/26_Blown_to_Pieces_Mortician.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Blown Away",
+      "artist": "Overkill",
+      "has_synced": true,
+      "path": "select/27_Blown_Away_Overkill.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Blown Away",
+      "artist": "Sick Of It All",
+      "has_synced": true,
+      "path": "select/28_Blown_Away_Sick_Of_It_All.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blown out",
+      "artist": "Lienel",
+      "has_synced": false,
+      "path": "select/pl_01_Blown_out_Lienel.txt"
+    }
+  ]
+}
